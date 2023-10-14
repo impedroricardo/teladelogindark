@@ -20,4 +20,4 @@ PROJETO RESPONSIVO
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
 
-(https://teladelogindark.vercel.app/)https://teladelogindark.vercel.app/
+Link do Projeto: https://teladelogindark.vercel.app/
